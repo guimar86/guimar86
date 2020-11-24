@@ -16,4 +16,5 @@ Here are some ideas to get you started:
   <li>⚡ Fun fact: hmm..... I see sharp (C# lol)</li>  
 </ul>
 
+[![Guimar86 github stats](https://github-readme-stats.vercel.app/api?username=guimar86)](https://github.com/guimar86/github-readme-stats)
 
