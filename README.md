@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-<p>I am an developer at Standard Bank Angola focused on creating APIs for it's core banking and integrating with several other apps out there. Always learning, and this year I would like to give a shot at Cloud development starting with Azure.</p>
+<p>I am a developer at Standard Bank Angola focused on creating APIs for it's core banking and integrating with several other apps out there. Always learning, and this year I would like to give a shot at Cloud development starting with Azure.</p>
 <ul>
   <li>🔭 I’m currently working on Api Catalog for Fintechs</li>
   <li>🌱 I’m currently learning - DevOps</li>
