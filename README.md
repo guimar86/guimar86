@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-<p>C# Developer</p>
+Software Developer 
+
 <ul>
   <li>🔭 I’m a software developer for Standard Bank Angola</li>
   <li>🌱 I’m currently learning - DevOps</li>
