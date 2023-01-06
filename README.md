@@ -9,7 +9,7 @@ Software Developer
 
 <ul>
   <li>🔭 I’m a software developer</li>
-  <li>🌱 I’m currently learning - DevOps</li>
+  <li>🌱 I’m currently learning the MERN stack and DevOps</li>
   <li>👯 I’m looking to learn and collaborate</li>
   <li>I'am an <a href ="https://www.credly.com/badges/3a8f499e-c0ca-429c-bced-7d36235e0150"> AWS Certified Cloud Practitioner </a></li>
   <li>💬 Ask me about C# and Java</li>
