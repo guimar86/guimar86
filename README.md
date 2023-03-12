@@ -17,6 +17,12 @@ Software Developer
   <li>⚡ Fun fact: hmm..... I see sharp (C# lol)</li>  
 </ul>
 
+<a href="github.com/guimar86">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guimar86&show_icons=true&theme=shades-of-purple&count_private=true" alt="Renato Martins's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimar86&theme=shades-of-purple&layout=compact" 
+    alt="Renato Martins GitHub Top Languages" />
+</a>
+
 ### Skills
 
 <p align="left">
