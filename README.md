@@ -1,44 +1,24 @@
-### 👋 Hello, I'm Renato Martins
+# 👋 Hey, I'm Renato
 
-I'm a **Software Architect** specializing in backend systems with a strong focus on **C#** and **.NET Core**.
+🧠 I break stuff so you don't have to. Then I architect backend systems in C# and .NET Core to *fix* the stuff (usually the stuff I broke).
 
-I design and build robust, scalable APIs and backend architectures that enable clean, maintainable, and high-performing software systems. I'm passionate about software craftsmanship, system design, and sharing knowledge through collaboration.
+## 🧰 What I Actually Do
 
----
+- Build APIs that don’t scream in production  
+- Speak fluent SOLID, DDD, and other three-letter acronyms  
+- Talk to the cloud (currently Azure) and hope it listens
 
-### 💼 What I Do
+## 📫 Contact Me
 
-- 🧱 Architect and develop backend solutions using **.NET Core**
-- 📐 Advocate for clean architecture and **design patterns**
-- 🌐 Build and maintain RESTful APIs for modern web services
-- ☁️ Currently exploring **Azure Cloud** to deepen cloud-native design skills
+- Email: `guillenmartins@gmail.com`  
+- Available for remote work, mentorship, or existential debates about Clean Architecture™
 
----
+## 🧘‍♂️ Fun Fact
 
-### 🤝 Open to
-
-- Remote collaboration opportunities  
-- Mentorship or knowledge sharing on backend development  
-- Contributing to architecture discussions or system design reviews
+When I'm not wrestling with code, I'm probably:
+- Losing at basketball 🏀  
+- Winning at video games 🎮 (or at least pretending to)
 
 ---
 
-### 🛠️ Tech Stack
-
-- **Languages**: C#, Java (past experience)
-- **Frameworks**: .NET Core, ASP.NET, Entity Framework
-- **Cloud & Tools**: Azure (learning), Git, Docker
-- **Principles**: SOLID, DDD, Clean Architecture
-
----
-
-### 🎯 Interests
-
-Outside of code, you’ll find me enjoying:
-- 🏀 A good game of basketball  
-- 🎮 Playing video games to unwind and refocus
-
----
-
-📫 **Let's connect**  
-Feel free to reach me at: `guillenmartins@gmail.com`
+> “Move fast and refactor things.” — Also me
