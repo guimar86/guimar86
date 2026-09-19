@@ -1,24 +1,30 @@
-# 👋 Hey, I'm Renato
+# Hi, I'm Renato 👋
 
-🧠 I break stuff so you don't have to. Then I architect backend systems in C# and .NET Core to *fix* the stuff (usually the stuff I broke).
+I'm a **Senior Software Engineer** focused on building backend systems and APIs with **C# and .NET**.
 
-## 🧰 What I Actually Do
+I have experience working on enterprise software, core banking systems, digital transformation projects, and distributed development teams. More recently, I'm expanding my work into **SaaS development**, combining .NET backend services with Angular and cloud technologies.
 
-- Build APIs that don’t scream in production  
-- Speak fluent SOLID, DDD, and other three-letter acronyms  
-- Talk to the cloud (currently Azure) and hope it listens
+## 🛠️ What I Work With
 
-## 📫 Contact Me
+* **Backend:** C#, .NET, ASP.NET Core, REST APIs
+* **Architecture:** Clean Architecture, DDD, SOLID, modular design
+* **Data:** SQL Server, Entity Framework Core
+* **Frontend:** Angular, TypeScript
+* **Cloud & DevOps:** Azure, Docker, CI/CD
+* **Authentication:** ASP.NET Core Identity, JWT, role-based authorization
 
-- Email: `guillenmartins@gmail.com`  
-- Available for remote work, mentorship, or existential debates about Clean Architecture™
+## 🚀 What You'll Find Here
 
-## 🧘‍♂️ Fun Fact
+This profile contains projects where I experiment with architecture, explore new technologies, and build complete applications from backend to frontend.
 
-When I'm not wrestling with code, I'm probably:
-- Losing at basketball 🏀  
-- Winning at video games 🎮 (or at least pretending to)
+Currently, I'm focused on building **SaaS applications with .NET, Angular, Docker, and Azure**, while continuously improving my approach to software architecture and DevOps.
+
+## 📫 Get in Touch
+
+* Email: `guillenmartins@gmail.com`
+
+I'm always interested in **software engineering, architecture, SaaS, cloud development, and good technical discussions**.
 
 ---
 
-> “Move fast and refactor things.” — Also me
+*Build it. Understand it. Improve it.*
